@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.customHeight img {
+  height: 500px;
+}
+
+.col-md-6.imgcustom {
+  text-align: center;
+  margin-top: 10px;
+  animation: Updown 2s ease-in-out infinite alternate-reverse both;
+  left: 0;
+  bottom: 0;
+  position: relative;
+}
+
+@keyframes Updown{
+  0% {
+    transform: translateY(10px)
+  }
+  0% {
+    transform: translateY(-10px);
+  }
+}
+
+.col-sm-4.customClass {
+  margin-top: 20px;
+}

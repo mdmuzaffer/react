@@ -14,7 +14,7 @@ const Header = () =>{
                     <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
                     <ul className="navbar-nav m-auto mb-2 mb-lg-0 pull-right">
                         <li className="nav-item">
-                            <Link exact className="nav-link" aria-current="page" to='/react'>Home</Link>
+                            <Link exact className="nav-link" aria-current="page" to='/'>Home</Link>
 
                         </li>
                         <li className="nav-item">

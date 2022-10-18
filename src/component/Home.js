@@ -20,7 +20,7 @@ const Home = (props) =>{
                     <div class="col-md-6 pt-5 pt-lg-0">
                         <div class="card1" style={style}>
                             <div class="card-body text-center">
-                                <h3 class="card-title">Our Team</h3>
+                                <h3 class="card-title">Our Team test</h3>
                                 <p class="card-text">We ara the aweasom team to create and building and website with static and dynamic website .</p>
                                 <a href="#" class="btn btn-primary">Go somewhere</a>
                             </div>
